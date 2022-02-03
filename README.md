@@ -17,7 +17,7 @@ To submit a new project:
 1. Make an issue in this project to add it into the Inventory.
 2. Make a Pull/Merge Request that resolves the issue, with changes to the inventory data file and the inventory table.
 
-After the Pull/Merge Request is reviewed and approved, it is up to the representative of the starter project to maintain accurate information in the inventory regarding their project.
+After the Pull/Merge Request is reviewed and approved, it is up to a representative of the starter template project to maintain accurate information in the inventory regarding that project.
 
 Users of these system templates are encouraged to provide feedback and share experiences that they have with the starter templates here in this project.
 Any issues/bugs or feature requests for a specific template should be made in that project's repository so that the developers can take direct action.
